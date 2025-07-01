@@ -1,15 +1,3 @@
-# itc_course
-
-# Имя Фамилия - SkillSet QA + T1-T5 
-
-DSP
-
-# Table of Contents 
-
-No headings included in this document
-
-# (1) Легенда 
-
 Цифры в ячейках относятся к номерам вопросов, компетенциями на которые должен обладать инженер того или иного уровня
 
 | Hard skill | Подгруппа | QA ma nual _se nior | QA auto matio n_juni or | T ri b e I e a d Q A | Комментарий (рекомендуется выделить жирным чего не хватает слева в скиллах) |
